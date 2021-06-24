@@ -1,0 +1,7 @@
+This is gym Landing Page
+
+Features :
+1 responsive
+2 gredient color
+3 min 1 section in parallax 
+4 unique hover effects
